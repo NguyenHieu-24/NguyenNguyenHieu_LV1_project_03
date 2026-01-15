@@ -12,6 +12,7 @@ The system follows a modular ETL approach, including:
 This project demonstrates fundamental Data Engineer skills, including database design, ETL pipelines, Python scripting, and SQL-based migrations.
 
 ## 🏗️ Project Structure
+```
 NguyenNguyenHieu_LV1_project_03/
 │
 ├── main.py                     # Main entry point to run ETL pipeline
@@ -40,6 +41,7 @@ NguyenNguyenHieu_LV1_project_03/
 │   └── load_promotion_product.py
 │
 └── README.md
+```
 
 ## ⚙️ Technologies Used
 
